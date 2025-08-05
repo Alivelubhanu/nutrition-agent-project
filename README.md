@@ -1,4 +1,4 @@
- AI Nutrition Agent – Capstone Project (IBM + Edunet Foundation)
+ IBM SkillsBuild 4-Week Internship on AI & Cloud Technologies
 
 📌 Overview
 
