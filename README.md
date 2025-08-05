@@ -1,10 +1,11 @@
  IBM SkillsBuild 4-Week Internship on AI & Cloud Technologies
-
+ ________________________________________________________________________________________________________________________________________________________________________________________________________________
 📌 Overview
 
 This repository documents the capstone project completed during the IBM SkillsBuild 4-Week Internship on AI & Cloud Technologies. The program was jointly conducted by IBM SkillsBuild, Edunet Foundation, and AICTE to equip students with practical exposure to cloud and AI technologies.
 
 📝 Table of Contents
+________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 👨‍💻 Intern Details
 
@@ -23,16 +24,18 @@ This repository documents the capstone project completed during the IBM SkillsBu
 📊 Results
 
 📁 Repository Contents
+___________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 👨‍💻 Intern Details
 
 Name: Alivelu Bhanu Teja
 
-Institute: [Your College Name]
+Institute: [Cmr Institute of Technology]
 
 Duration: 4 Weeks (15th July 2025 to 7th August 2025)
 
 📖 About the Internship
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 This 4-week internship focused on AI and IBM Cloud skills, offering hands-on sessions, expert mentorship, and industry use-case learning. The learning path included:
 
@@ -43,6 +46,7 @@ Week 2: Data Analytics & IBM Cloud Hands-On Labs
 Week 3-4: Chatbot Development, RAG-based Models, Final Project Submission
 
 The internship had no stipend and required completion of at least two IBM SkillsBuild courses.
+_________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 💡 Project: AI Nutrition Agent
 
@@ -61,7 +65,7 @@ Suggests personalized diet plans based on age, region, fitness
 Explains the nutritional logic behind suggestions
 
 Adapts advice based on user feedback
-
+________________________________________________________________________________________________________________________________________________________________________________________________________________
 ⚙️ Technology Stack
 
 IBM Cloud Lite
@@ -73,8 +77,9 @@ RAG-based Pipeline
 Watsonx.ai Preview Tool
 
 Web UI / Chatbot Interface
-
+________________________________________________________________________________________________________________________________________________________________________________________________________________
 🚀 Project Workflow
+
 
 Data Understanding: Regional health habits and food databases
 
@@ -85,7 +90,7 @@ Response Generation: Using IBM Granite models to return dynamic answers
 Interface: Chatbot simulation through Watsonx preview
 
 Testing: Response screenshots attached
-
+_________________________________________________________________________________________________________________________________________________________________________________________________________________
 📊 Results
 
 The chatbot provides contextual, tailored nutrition advice.
@@ -99,6 +104,7 @@ Real-time image of working response is shown in the Result section
 <img width="1917" height="916" alt="Screenshot 2025-08-01 080747" src="https://github.com/user-attachments/assets/f3cdefc5-695d-4a8a-8e76-5a684620e37c" />
 <img width="1919" height="906" alt="Screenshot 2025-08-01 080734" src="https://github.com/user-attachments/assets/28c9b9d3-326d-4e32-b937-6b4db11967ba" />
 <img width="1918" height="908" alt="Screenshot 2025-08-01 080709" src="https://github.com/user-attachments/assets/22fcde65-4996-445a-bf43-5b054640f9a2" />
+___________________________________________________________________________________________________________________________________________________________________________________________________________________
 📁 Repository Contents
 
 Nutrition Agent.pdf – Final project submission
