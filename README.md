@@ -3,9 +3,8 @@
 📌 Overview
 
 This repository documents the capstone project completed during the IBM SkillsBuild 4-Week Internship on AI & Cloud Technologies. The program was jointly conducted by IBM SkillsBuild, Edunet Foundation, and AICTE to equip students with practical exposure to cloud and AI technologies.
-
+___________________________________________________________________________________________________________________________________________________________________________________________________________________
 📝 Table of Contents
-________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 👨‍💻 Intern Details
 
