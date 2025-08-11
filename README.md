@@ -103,7 +103,7 @@ Real-time image of working response is shown in the Result section
 <img width="1917" height="916" alt="Screenshot 2025-08-01 080747" src="https://github.com/user-attachments/assets/f3cdefc5-695d-4a8a-8e76-5a684620e37c" />
 <img width="1919" height="906" alt="Screenshot 2025-08-01 080734" src="https://github.com/user-attachments/assets/28c9b9d3-326d-4e32-b937-6b4db11967ba" />
 <img width="1918" height="908" alt="Screenshot 2025-08-01 080709" src="https://github.com/user-attachments/assets/22fcde65-4996-445a-bf43-5b054640f9a2" />
-___________________________________________________________________________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________________________________________________________________
 📁 Repository Contents
 
 Nutrition Agent.pdf – Final project submission
