@@ -52,7 +52,7 @@ ________________________________________________________________________________
 ❓ Problem Statement
 
 As health consciousness rises, users seek personalized nutrition advice. Most tools offer static plans, ignoring individual lifestyle, allergies, and culture. Dieticians also can't scale easily. This project aims to build the Smartest AI Nutrition Assistant to provide tailored diet advice interactively using IBM Granite and Cloud services.
-
+_________________________________________________________________________________________________________________________________________________________________________________________________________________
 💭 Solution Overview
 
 An AI-powered Nutrition Assistant was created using Generative AI, NLP, and IBM Granite models. It:
